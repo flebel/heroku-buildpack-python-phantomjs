@@ -168,7 +168,7 @@ mkdir -p $(dirname $PROFILE_PATH)
 # ## PhantomJS
 
 # config
-PHANTOMJS_VERSION="1.8.1"
+PHANTOMJS_VERSION="1.9.0"
 S3_BUCKET="specter.5by.com"
 
 # s3 packages
